@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(86,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(107,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(133,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(134,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(135,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(146,55): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(148,55): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(151,55): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(153,55): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(156,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(158,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(209,31): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(233,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(249,24): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(256,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(272,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(308,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(316,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(317,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(318,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(326,26): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(327,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(328,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(350,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(353,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(361,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(366,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(381,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(392,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(395,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(403,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(407,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(417,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(420,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(426,37): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(428,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(433,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(435,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(444,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(447,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(453,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(455,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(460,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(462,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(469,30): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(488,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(488,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(503,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(510,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(511,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\chlwl\source\repos\glReport2\glReport2\main.cpp(546,31): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  glReport2.vcxproj -> C:\Users\chlwl\source\repos\glReport2\Debug\glReport2.exe
